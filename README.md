@@ -25,7 +25,7 @@
   - [Juego interactivo](#3--juego-interactivo)
   - [Serie de imágenes](#4--serie-de-imágenes)
   - [Evaluación interactiva](#5--evaluación-interactiva)
-- [📊mEvaluación del proyecto](#-evaluación-del-proyecto)
+- [Evaluación del proyecto](#-evaluación-del-proyecto)
 - [Reflexión](#-reflexión)
 - [Fuentes](#-fuentes)
 - [Uso de IA](#-nota-sobre-el-uso-de-ia)
