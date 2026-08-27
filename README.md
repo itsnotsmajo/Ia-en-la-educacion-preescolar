@@ -19,7 +19,7 @@ El propósito es conocer las posibilidades que ofrece la IA para enriquecer las 
 
 ---
 
-# ÍNDICE INTERACTIVO
+# ÍNDICE 
 
 ### 1. Artículos y papers sobre IA y educación preescolar
 
